@@ -1,0 +1,9 @@
+build/
+bin/
+lib/
+*.log
+.vs/
+*.user
+x64/
+Release/
+Debug/
